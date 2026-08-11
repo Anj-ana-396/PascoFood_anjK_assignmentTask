@@ -1,6 +1,11 @@
+
 # Pasco Foods Limited - Modern Futuristic Homepage
 
 Recreation of the **Pasco Foods Limited** homepage (`https://www.pascofoods.co.uk/`) built using **React**, **Vite**, **Tailwind CSS**, **Three.js (WebGL)**, and **Framer Motion**.
+
+---
+
+<img width="1920" height="1200" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/a7686f86-3053-4704-a4d7-92895f3c2290" />
 
 ---
 
@@ -37,3 +42,15 @@ npm run build
 
 ## 📄 License
 Created for Pasco Foods Limited Selection Assignment. All rights reserved.
+
+
+---
+
+<img width="1920" height="1200" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/1377d81f-340f-4cd4-9e1b-e35b446e99a1" />
+
+---
+
+<img width="1920" height="1200" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/4e199051-25a4-46e5-8e2f-999efd3fe5e3" />
+
+---
+
